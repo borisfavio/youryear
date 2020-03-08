@@ -1,5 +1,4 @@
-# youryear
-//calcula tu edad
+/*calcula tu edad*/
 
 
 import java.util.Scanner;
