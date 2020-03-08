@@ -1,13 +1,13 @@
 # youryear
-calcula tu edad
+//calcula tu edad
+
+
 import java.util.Scanner;
 
 public class tarea2 {
 	
 	public static void main(String[] args) {
-        // TODO code application logic here
-
-
+        
        String N;
           
        int A, AA=2020, ED;
